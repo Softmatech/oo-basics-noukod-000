@@ -34,4 +34,6 @@ class Book
   def turn_page
   end
 
+  puts "Flipping the page...wow, you read fast!"
+
 end
